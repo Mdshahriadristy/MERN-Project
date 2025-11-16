@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+*{
+    font-family: "Roboto", sans-serif;
+}
+.cp{
+  color: #5CAF90;
+}
+.bgp{
+  background-color: #5CAF90;
+}
+.ts{
+  color: #4b5966;
+  font-size: 14px;
+}
